@@ -17,6 +17,6 @@
 ### Testes futuros:
 
 Excluir o cunjunto intersecção de tokens que se relacionam tanto com sentimto positivo como com sentimento negativo.
-Após a vetoriação com Bag of Words realizar treinamento que tem como base árvores de decisão como ADA, Random Forest, XGBosst[1].
+Após a vetoriação com Bag of Words realizar treinamento que tem como base árvores de decisão como Random Forest, ADA, XGBosst[1].
 
 [[1] Conheça o algoritmo XGBoost](https://www.datageeks.com.br/xgboost/) 
