@@ -1,6 +1,8 @@
 
 # Classificação de idiomas de uma texto (dentre os idiomas português, inglês e espanhol) através de medidas de perplexidade.
 
+Quando comparadas as medidas de perplexidade entre cada modelo de cada idioma e um texto teste o idioma será o idioma do texto teste será o que corresponde à menor perplexidade.
+
 ## 1. Explorando os dados
 
 - Aplicações dos Modelos de Linguagem;
