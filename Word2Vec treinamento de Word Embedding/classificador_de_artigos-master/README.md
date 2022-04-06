@@ -1,4 +1,5 @@
 ### Preparação do ambiente
+Após baixar o projeto os arquivos da pasta modelos devem ser descompactados.
 
 ````prompt
 >>> python --version
