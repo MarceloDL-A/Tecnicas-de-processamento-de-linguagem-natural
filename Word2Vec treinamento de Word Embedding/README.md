@@ -1,4 +1,4 @@
-# Criação de um modelo de classificação de categorias de títulos de textos utilizando Spacy, Word2Vec, Gensim e disponibilização de uma aplicação web utilizando Flask
+# Criação de um modelo de classificação de categorias de títulos de textos utilizando Spacy, Word2Vec, Gensim e disponibilização na forma de uma aplicação web utilizando Flask
 
 Dados
 
