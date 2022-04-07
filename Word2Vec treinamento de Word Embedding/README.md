@@ -1,3 +1,5 @@
+# Criação de um modelo de classificação de categorias de títulos de textos utilizando Spacy, Word2Vec, Gensim e disponibilização de uma aplicação web utilizando Flask
+
 Dados
 
 - [Treinamento](https://caelum-online-public.s3.amazonaws.com/1638-word-embedding/treino.csv)
